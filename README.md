@@ -4,9 +4,9 @@
 
 Shamanistic front-end HTML5 boilerplate and collection of useful chants.
 
-* Source: [github.com/3bola/ukko](http://github.com/3bola/ukko)
+Source: [github.com/3bola/ukko](http://github.com/3bola/ukko)
 
-## Features
+### Features
 
 * Simple HTML5 boilerplate
 * Separated production and development environments
@@ -16,11 +16,9 @@ Shamanistic front-end HTML5 boilerplate and collection of useful chants.
 * Image compressing
 * etc...
 
-## Usage
+### Usage
 
-### Requirements
-
-### Install
+#### Install
 
 First off, make sure you have [NodeJS](http://nodejs.org/) installed.
 
@@ -29,21 +27,21 @@ Then in terminal run:
 $ git clone https://github.com/3bola/ukko.git && cd ukko && npm install .
 ```
 
-### Running the development server
+#### Running the development server
 
 Run:
 ```sh
 $ grunt server
 ```
 
-### Building the application
+#### Building the application
 
 Run:
 ```sh
 $ grunt build
 ```
 
-## License
+### License
 
 #### The MIT License (MIT)
 
