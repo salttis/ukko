@@ -1,6 +1,6 @@
 # Ukko
 
-![image](https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png)
+<img align="right" src="https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png">
 
 Shamanistic front-end HTML5 boilerplate and collection of useful chants.
 
@@ -18,17 +18,30 @@ Shamanistic front-end HTML5 boilerplate and collection of useful chants.
 
 ## Usage
 
+### Requirements
+
 ### Install
 
-`git clone https://github.com/3bola/ukko.git && cd ukko && npm install .`
+First off, make sure you have [NodeJS](http://nodejs.org/) installed.
 
-### Run development server
+Then in terminal run:
+```sh
+$ git clone https://github.com/3bola/ukko.git && cd ukko && npm install .
+```
 
-`grunt server`
+### Running the development server
 
-### Build
+Run:
+```sh
+$ grunt server
+```
 
-`grunt build`
+### Building the application
+
+Run:
+```sh
+$ grunt build
+```
 
 ## License
 
