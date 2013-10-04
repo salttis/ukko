@@ -1,14 +1,14 @@
 {
-  "name": "Ukko",
-  "title": "Front-end boilerplate",
-  "url": "http://github.com/3bola/ukko",
-  "author": "Juri Saltbacka",
+  "name": "your-project-name",
+  "title": "Your project name",
+  "url": "http://url.to/your-project",
+  "author": "Your name",
   "copyright": "2013",
-  "version": "0.1.0",
-  "license": "MIT",
+  "version": "1.0.0",
+  "license": "Your license",
   "repository": {
     "type": "git",
-    "url": "http://github.com/3bola/ukko.git"
+    "url": "http://url.to/your-repository"
   },
   "devDependencies": {
     "bower": "~1.2.6",

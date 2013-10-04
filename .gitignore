@@ -1,4 +1,8 @@
+# Directories
+deploy/*
+lib/*
 node_modules
-lib
+
+# Files
 .DS_Store
 .tmp
