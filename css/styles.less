@@ -1,0 +1,33 @@
+// Variables
+@base-url:   '../..';
+@assets-url: '@{base-url}/assets';
+@images-url: '@{assets-url}/img';
+
+// Mixins
+@import 'mixins/lesshat';
+
+// Modules
+@import 'modules/normalize';
+@import 'modules/clearfix';
+@import 'modules/typography';
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url('@{images-url}/ukko.png') no-repeat 50% 50%;
+}
+.version {
+  display: block;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin-top: 120px;
+  text-align: center;
+  color: @text-color-light;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
