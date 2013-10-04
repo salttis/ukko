@@ -26,21 +26,21 @@ First off, make sure you have [NodeJS](http://nodejs.org/) installed.
 
 Then in terminal run:
 ```sh
-$ git clone https://github.com/3bola/ukko.git && cd ukko && npm install .
+git clone https://github.com/3bola/ukko.git && cd ukko && npm install .
 ```
 
 #### Running the development server
 
 Run:
 ```sh
-$ grunt server
+grunt server
 ```
 
 #### Building the application
 
 Run:
 ```sh
-$ grunt build
+grunt build
 ```
 
 ### License
