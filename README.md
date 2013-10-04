@@ -2,19 +2,21 @@
 
 <img align="right" src="https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png" hspace="80" vspace="10">
 
-Shamanistic front-end HTML5 boilerplate and collection of useful chants.
+Shamanistic front-end HTML5 boilerplate, collection of useful grunt chants and bower component management.
 
-Source: [github.com/3bola/ukko](http://github.com/3bola/ukko)
+* Source: [http://github.com/3bola/ukko](http://github.com/3bola/ukko)
+* Issues: [https://github.com/3bola/ukko/issues](https://github.com/3bola/ukko/issues)
 
 ### Features
 
 * Simple HTML5 boilerplate
 * Separated production and development environments
-* Using LESS CSS files
-* Development server with automatic build of LESS and JS files
-* Bower component manager and component building
-* Image compressing
-* etc...
+* Using LESS CSS
+* Grunt tasks for development server with automatic building of LESS and JS files
+* Bower component management and building
+* Automatic image compressing
+* [LESSHat](http://lesshat.com/) universal mixins library
+* Et cetera
 
 ### Usage
 
