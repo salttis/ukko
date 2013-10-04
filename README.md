@@ -1,4 +1,4 @@
-# Ukko
+# Ukko [![Build Status](https://travis-ci.org/3bola/ukko.png?branch=master)](https://travis-ci.org/3bola/ukko)
 
 <img align="right" src="https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png" hspace="80" vspace="10">
 
