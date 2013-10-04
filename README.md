@@ -1,6 +1,6 @@
 # Ukko
 
-<img align="right" src="https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png">
+<img align="right" src="https://raw.github.com/3bola/ukko/master/public/assets/img/ukko.png" style="margin-top: 80px; margin-right: 80px;">
 
 Shamanistic front-end HTML5 boilerplate and collection of useful chants.
 
