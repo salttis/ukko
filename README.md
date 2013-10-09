@@ -18,6 +18,8 @@ Shamanistic front-end HTML5 boilerplate, collection of useful grunt chants and b
 * [LESSHat](http://lesshat.com/) universal mixins library
 * Et cetera
 
+Based on [Fireshell](https://github.com/toddmotto/fireshell/) by [Todd Motto](https://github.com/toddmotto/)
+
 ### Usage
 
 #### Install
