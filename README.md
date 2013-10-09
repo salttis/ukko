@@ -35,7 +35,7 @@ git clone https://github.com/3bola/ukko.git && cd ukko && npm install .
 
 Run:
 ```sh
-grunt server
+grunt
 ```
 
 #### Building the application
